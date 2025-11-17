@@ -30,3 +30,5 @@ This example repository is licensed under the Apache 2.0  License. See the [LICE
 ![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)
 
 قالب موحّد لإعدادات الأمان والجودة لكل المشاريع 🚀
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
