@@ -22,3 +22,11 @@ Contributions to this repository are welcome. If you find a bug or have a sugges
 This example repository is licensed under the Apache 2.0  License. See the [LICENSE](https://github.com/jfrog/jfrog-npm-actions-example/blob/main/LICENSE) file for more information.
 
 
+
+## 📊 Status Badges
+
+![CI](https://github.com/asrar-mared/-dev-tools-template/actions/workflows/ci.yml/badge.svg)
+![CodeQL](https://github.com/asrar-mared/-dev-tools-template/actions/workflows/codeql.yml/badge.svg)
+![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen?logo=dependabot)
+
+قالب موحّد لإعدادات الأمان والجودة لكل المشاريع 🚀
